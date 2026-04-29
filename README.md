@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kamil Hidayat</h1>
 
-<!--
-**kamiludin890/kamiludin890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I am a programmer who like to learn programming in wild way.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+
+#### 🛠️ Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Website / Portfolio: [Coming Soon]
+- 💼 LinkedIn: [linkedin.com/in/kamil-hidayat](https://www.linkedin.com/in/kamil-hidayat/)
+- 📧 Email: kamilhidayat@outlook.jp
